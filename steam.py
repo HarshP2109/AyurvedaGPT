@@ -92,9 +92,10 @@ if __name__ == '__main__':
 
             ### Workflow
             Below is a flowchart demonstrating how it works:
-            ![Workflow](https://github.com/HarshP2109/AyurvedaGPT/blob/main/Flowchart/AyurvedaGPT.png)
+
         """, unsafe_allow_html=True)
-        # st.image('Flowchart\AyurvedaGPT.png', caption='Ayurveda GPT Flowchart')
+        link = "https://raw.githubusercontent.com/HarshP2109/AyurvedaGPT/main/Flowchart/AyurvedaGPT.png"
+        st.image(link, caption='Ayurveda GPT Flowchart', width=800)
 
 
         st.session_state.api_key = ""
