@@ -22,7 +22,7 @@ Welcome to the Ayurveda GPT App! This web application is designed to help you ga
 
 The flowchart below demonstrates the workflow of the app:
 
-![Workflow](Flowchart\AyurvedaGPT.png)
+![Workflow](https://github.com/HarshP2109/AyurvedaGPT/blob/main/Flowchart/AyurvedaGPT.png)
 
 ## Development
 
