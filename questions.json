@@ -1,0 +1,98 @@
+[
+    {
+        "question": "What is your body type ?",
+        "choices": [
+            {"answer": "Too Tall / Too Short", "kalpa_points": 0, "vatta_points": 1, "pitta_points": 0},
+            {"answer": "Medium", "kalpa_points": 0, "vatta_points": 0, "pitta_points": 1},
+            {"answer": "Short", "kalpa_points": 1, "vatta_points": 0, "pitta_points": 0}
+        ]
+    },
+    {
+        "question": "What is your body-weight type ? ",
+        "choices": [
+            {"answer": "Lean", "kalpa_points": 0, "vatta_points": 1, "pitta_points": 0},
+            {"answer": "Average", "kalpa_points": 0, "vatta_points": 0, "pitta_points": 1},
+            {"answer": "Heavy","kalpa_points": 1, "vatta_points": 0, "pitta_points": 0}
+        ]
+    },
+    {
+        "question": "What is your Skin-type ? ",
+        "choices": [
+            {"answer": "Rough, easily skin gets dark", "kalpa_points": 0, "vatta_points": 1, "pitta_points": 0},
+            {"answer": "Smooth, Achne/Pimple", "kalpa_points": 0, "vatta_points": 0, "pitta_points": 1},
+            {"answer": "Bright, Smooth, Attractive", "kalpa_points": 1, "vatta_points": 0, "pitta_points": 0}
+        ]
+    },
+    {
+        "question": "What type of eye you have ? ",
+        "choices": [
+            {"answer": "Sunken, small eyelashes", "kalpa_points": 0, "vatta_points": 1, "pitta_points": 0},
+            {"answer": "Sharp, penetrating eyes ", "kalpa_points": 0, "vatta_points": 0, "pitta_points": 1},
+            {"answer": "Big, thick eyelashes", "kalpa_points": 1, "vatta_points": 0, "pitta_points": 0}
+        ]
+    },
+    {
+        "question": "What type of hair you have ? ",
+        "choices": [
+            {"answer": "Dry, Small, Curly", "kalpa_points": 0, "vatta_points": 1, "pitta_points": 0},
+            {"answer": "Thin, Silky, Oily", "kalpa_points": 0, "vatta_points": 0, "pitta_points": 1},
+            {"answer": "Thick, soft, dark, wavy", "kalpa_points": 1, "vatta_points": 0, "pitta_points": 0}
+        ]
+    },
+    {
+        "question": "What type of forehead you have ? ",
+        "choices": [
+            {"answer": "Small, Irregular", "kalpa_points": 0, "vatta_points": 1, "pitta_points": 0},
+            {"answer": "Medium", "kalpa_points": 0, "vatta_points": 0, "pitta_points": 1},
+            {"answer": "Large, Attractive", "kalpa_points": 1, "vatta_points": 0, "pitta_points": 0}
+        ]
+    },
+    {
+        "question": "How is your digestion going on? ",
+        "choices": [
+            {"answer": "Irregular", "kalpa_points": 0, "vatta_points": 1, "pitta_points": 0},
+            {"answer": "Very Well", "kalpa_points": 0, "vatta_points": 0, "pitta_points": 1},
+            {"answer": "Weak", "kalpa_points": 1, "vatta_points": 0, "pitta_points": 0}
+        ]
+    },
+    {
+        "question": "How often you get thirty ? ",
+        "choices": [
+            {"answer": "Sometimes", "kalpa_points": 0.5, "vatta_points": 1, "pitta_points": 0},
+            {"answer": "Very Often", "kalpa_points": 0, "vatta_points": 0, "pitta_points": 1},
+            {"answer": "Very Rarely","kalpa_points": 1, "vatta_points": 0.5, "pitta_points": 0}
+        ]
+    },
+    {
+        "question": "What is your preferred food taste?",
+        "choices": [
+            {"answer": "Sweet, Sour, Salty", "kalpa_points": 0, "vatta_points": 1, "pitta_points": 0},
+            {"answer": "Sweet, bitter, slightly bitter", "kalpa_points": 0, "vatta_points": 0, "pitta_points": 1},
+            {"answer": "Bitter, Slight bitter, Strong Taste", "kalpa_points": 1, "vatta_points": 0, "pitta_points": 0}
+        ]
+    },
+    {
+        "question": "How much is your control on hunger? ",
+        "choices": [
+            {"answer": "Irregular", "kalpa_points": 0, "vatta_points": 1, "pitta_points": 0.5},
+            {"answer": "Poor", "kalpa_points": 0, "vatta_points": 0, "pitta_points": 1},
+            {"answer": "Very Good", "kalpa_points": 1, "vatta_points": 0, "pitta_points": 0}
+        ]
+    },
+    {
+        "question": "How much is your food consumption? ",
+        "choices": [
+            {"answer": "Irregular", "kalpa_points": 0, "vatta_points": 1, "pitta_points": 0},
+            {"answer": "Heavy","kalpa_points": 0.5, "vatta_points": 0.5, "pitta_points": 1},
+            {"answer": "Normal", "kalpa_points": 1, "vatta_points": 0, "pitta_points": 0}
+        ]
+    },
+    {
+        "question": "What are your bowel movements ? ",
+        "choices": [
+            {"answer": "Irregular, Diarrhea, Constipation", "kalpa_points": 0, "vatta_points": 1, "pitta_points": 0},
+            {"answer": "Diarrhea", "kalpa_points": 0, "vatta_points": 0.5, "pitta_points": 1},
+            {"answer": "Constipation", "kalpa_points": 1, "vatta_points": 0.5, "pitta_points": 0}
+        ]
+    }
+]
